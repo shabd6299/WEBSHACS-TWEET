@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-ex94&=&2bk!$)vr=nmjzkvd%=ft5ohz7=9m$+n=%$ze6rqg2p1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ALLOWED_HOSTS = ['webshacs-tweet.onrender.com', '127.0.0.1', 'localhost']
-]
+ALLOWED_HOSTS = ALLOWED_HOSTS = ['webshacs-tweet.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
